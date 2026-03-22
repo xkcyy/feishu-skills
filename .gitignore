@@ -18,3 +18,7 @@ src/tools/docs/
 
 /**/package-lock.json
 /**/.DS_Store
+skills/feishu/.local/
+skills/feishu/.state.json
+skills/feishu/.runtime/
+.tmp_pkg/

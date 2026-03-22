@@ -1,0 +1,4 @@
+interface:
+  display_name: "Feishu"
+  short_description: "Unified Feishu skill with local auth and tool wrappers"
+  default_prompt: "Use $feishu to authenticate a user and operate Feishu/Lark bitables, tasks, calendars, docs, wiki, drive, sheets, and IM history through the bundled local scripts."

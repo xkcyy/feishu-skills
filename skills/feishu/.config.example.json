@@ -1,0 +1,14 @@
+{
+  "defaultAccountId": "default",
+  "accounts": {
+    "default": {
+      "name": "main",
+      "appId": "cli_replace_with_your_app_id",
+      "appSecret": "replace_with_your_app_secret",
+      "domain": "feishu"
+    }
+  },
+  "tools": {
+    "deny": []
+  }
+}
